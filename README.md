@@ -39,6 +39,16 @@ hs.hotkey.bind('', 'f1', function()
 end)
 ```
 
+### Usage Example
+
+1. Identify a target for receiving aa Emoji ASCII Art message
+2. Type a message in the following format:
+    ```bash
+    hiya :tada: :party_parrot:
+    ```
+3. Hit the hotkey you attached to the Spoon function (`f1` in the example code)
+4. Behold the amazing transformation of your text to beautiful ASCII made out of pure emojis.
+
 ## EmojiAsciiArt Spoon API
 
 ``` lua
