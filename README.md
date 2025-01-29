@@ -32,7 +32,7 @@ Open your Hammerspoon configuration file and edit it to make use of this Spoon. 
 - Assigns the `F1` button to gather text & emoji payload then pastes the output ASCII art
 
 ``` lua
-hs.loadSpoon('EmojiAsciiArt')
+local emojiAsciiArt = hs.loadSpoon('EmojiAsciiArt')
 
 hs.hotkey.bind('', 'f1', function()
     emojiAsciiArt:convertToAsciiArt()
