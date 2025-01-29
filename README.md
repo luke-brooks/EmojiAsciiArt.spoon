@@ -41,7 +41,7 @@ end)
 
 ### Usage Example
 
-1. Identify a target for receiving aa Emoji ASCII Art message
+1. Identify a target for receiving an Emoji ASCII Art message
 2. Type a message in the following format:
     ```bash
     hiya :tada: :party_parrot:
