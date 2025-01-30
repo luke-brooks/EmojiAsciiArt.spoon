@@ -49,6 +49,8 @@ end)
 3. Hit the hotkey you attached to the Spoon function (`f1` in the example code)
 4. Behold the amazing transformation of your text to beautiful ASCII made out of pure emojis.
 
+![ascii-art-emoji-fast](https://github.com/user-attachments/assets/dd93f2e1-1975-473e-af01-5e8bb377899a)
+
 ## EmojiAsciiArt Spoon API
 
 ``` lua
@@ -65,5 +67,6 @@ spoon.EmojiAsciiArt:debug() -- enables hs.printf() logging in hs console
 - README documentation about what the output actually looks like & stuff
 
 ## Credit Where It's Due
+
 
 This unoriginal Spoon idea was lovingly copied from [Nick Ellsworth's](https://nickmakes.website/) [Slack Emoji Converter](https://nickmakes.website/slack-emoji-converter/) AngularJS tool. Your brilliant idea has brought countless laughs to myself, friends, coworkers, and colleagues.
