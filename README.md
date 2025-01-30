@@ -64,7 +64,6 @@ spoon.EmojiAsciiArt:debug() -- enables hs.printf() logging in hs console
 - Better string input format validation
 - Add support for a `?` that isn't ugly as sin
 - Add support for `:` if I ever feel like, it'll be a PITA I'm sure
-- README documentation about what the output actually looks like & stuff
 
 ## Credit Where It's Due
 
